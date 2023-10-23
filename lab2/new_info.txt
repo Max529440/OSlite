@@ -1,0 +1,472 @@
+ProcessID=1 : Parent_ProcessID=0 : Average_Running_Time=.53
+Average_Running_Children_of_ParentID=Average_Running_Time=.53 is 
+ProcessID=10 : Parent_ProcessID=2 : Average_Running_Time=0
+ProcessID=11 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=1123 : Parent_ProcessID=1 : Average_Running_Time=.88
+Average_Running_Children_of_ParentID=Average_Running_Time=.88 is 
+ProcessID=12 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=1205 : Parent_ProcessID=1123 : Average_Running_Time=1.71
+Average_Running_Children_of_ParentID=Average_Running_Time=1.71 is 
+ProcessID=122 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=123 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=124 : Parent_ProcessID=2 : Average_Running_Time=.02
+ProcessID=125 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=126 : Parent_ProcessID=2 : Average_Running_Time=.01
+ProcessID=127 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=128 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=129 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=13 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=130 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=132 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=133 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=134 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=136 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=137 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=138 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=1381 : Parent_ProcessID=1 : Average_Running_Time=.13
+Average_Running_Children_of_ParentID=Average_Running_Time=.13 is 
+ProcessID=14 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=140 : Parent_ProcessID=2 : Average_Running_Time=.03
+ProcessID=141 : Parent_ProcessID=2 : Average_Running_Time=.03
+Average_Running_Children_of_ParentID=Average_Running_Time=.03 is 
+ProcessID=15 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=150 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=1503 : Parent_ProcessID=1 : Average_Running_Time=.38
+Average_Running_Children_of_ParentID=Average_Running_Time=.38 is 
+ProcessID=153 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=1534 : Parent_ProcessID=1 : Average_Running_Time=.39
+Average_Running_Children_of_ParentID=Average_Running_Time=.39 is 
+ProcessID=154 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=158 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=16 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=1712 : Parent_ProcessID=1 : Average_Running_Time=.52
+Average_Running_Children_of_ParentID=Average_Running_Time=.52 is 
+ProcessID=1721 : Parent_ProcessID=1 : Average_Running_Time=.23
+Average_Running_Children_of_ParentID=Average_Running_Time=.23 is 
+ProcessID=1759 : Parent_ProcessID=934 : Average_Running_Time=.36
+Average_Running_Children_of_ParentID=Average_Running_Time=.36 is 
+ProcessID=1767 : Parent_ProcessID=1 : Average_Running_Time=.98
+Average_Running_Children_of_ParentID=Average_Running_Time=.98 is 
+ProcessID=1768 : Parent_ProcessID=1767 : Average_Running_Time=.45
+Average_Running_Children_of_ParentID=Average_Running_Time=.45 is 
+ProcessID=1774 : Parent_ProcessID=1767 : Average_Running_Time=.15
+Average_Running_Children_of_ParentID=Average_Running_Time=.15 is 
+ProcessID=1775 : Parent_ProcessID=1767 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=1776 : Parent_ProcessID=1767 : Average_Running_Time=.18
+Average_Running_Children_of_ParentID=Average_Running_Time=.18 is 
+ProcessID=1781 : Parent_ProcessID=1767 : Average_Running_Time=.11
+ProcessID=1784 : Parent_ProcessID=1 : Average_Running_Time=.11
+Average_Running_Children_of_ParentID=Average_Running_Time=.11 is 
+ProcessID=1785 : Parent_ProcessID=1767 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=1792 : Parent_ProcessID=1767 : Average_Running_Time=1.10
+Average_Running_Children_of_ParentID=Average_Running_Time=1.10 is 
+ProcessID=18 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=1802 : Parent_ProcessID=1759 : Average_Running_Time=.28
+ProcessID=1806 : Parent_ProcessID=1802 : Average_Running_Time=.28
+ProcessID=1851 : Parent_ProcessID=1767 : Average_Running_Time=.28
+Average_Running_Children_of_ParentID=Average_Running_Time=.28 is 
+ProcessID=1855 : Parent_ProcessID=1767 : Average_Running_Time=.33
+Average_Running_Children_of_ParentID=Average_Running_Time=.33 is 
+ProcessID=1897 : Parent_ProcessID=1767 : Average_Running_Time=.24
+Average_Running_Children_of_ParentID=Average_Running_Time=.24 is 
+ProcessID=19 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=1900 : Parent_ProcessID=1767 : Average_Running_Time=.70
+Average_Running_Children_of_ParentID=Average_Running_Time=.70 is 
+ProcessID=1908 : Parent_ProcessID=1767 : Average_Running_Time=.15
+Average_Running_Children_of_ParentID=Average_Running_Time=.15 is 
+ProcessID=1912 : Parent_ProcessID=1767 : Average_Running_Time=1.29
+Average_Running_Children_of_ParentID=Average_Running_Time=1.29 is 
+ProcessID=1920 : Parent_ProcessID=1897 : Average_Running_Time=.12
+Average_Running_Children_of_ParentID=Average_Running_Time=.12 is 
+ProcessID=1924 : Parent_ProcessID=1767 : Average_Running_Time=.50
+Average_Running_Children_of_ParentID=Average_Running_Time=.50 is 
+ProcessID=1931 : Parent_ProcessID=1920 : Average_Running_Time=.11
+Average_Running_Children_of_ParentID=Average_Running_Time=.11 is 
+ProcessID=1939 : Parent_ProcessID=1767 : Average_Running_Time=.73
+Average_Running_Children_of_ParentID=Average_Running_Time=.73 is 
+ProcessID=1946 : Parent_ProcessID=1767 : Average_Running_Time=.33
+Average_Running_Children_of_ParentID=Average_Running_Time=.33 is 
+ProcessID=1953 : Parent_ProcessID=1767 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=1959 : Parent_ProcessID=1767 : Average_Running_Time=.25
+Average_Running_Children_of_ParentID=Average_Running_Time=.25 is 
+ProcessID=196 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=1993 : Parent_ProcessID=1767 : Average_Running_Time=.31
+Average_Running_Children_of_ParentID=Average_Running_Time=.31 is 
+ProcessID=1995 : Parent_ProcessID=1767 : Average_Running_Time=.21
+Average_Running_Children_of_ParentID=Average_Running_Time=.21 is 
+ProcessID=2 : Parent_ProcessID=0 : Average_Running_Time=.27
+Average_Running_Children_of_ParentID=Average_Running_Time=.27 is 
+ProcessID=20 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=2004 : Parent_ProcessID=1767 : Average_Running_Time=.56
+Average_Running_Children_of_ParentID=Average_Running_Time=.56 is 
+ProcessID=2008 : Parent_ProcessID=1767 : Average_Running_Time=.13
+Average_Running_Children_of_ParentID=Average_Running_Time=.13 is 
+ProcessID=2014 : Parent_ProcessID=1767 : Average_Running_Time=.62
+Average_Running_Children_of_ParentID=Average_Running_Time=.62 is 
+ProcessID=2023 : Parent_ProcessID=1767 : Average_Running_Time=1.12
+Average_Running_Children_of_ParentID=Average_Running_Time=1.12 is 
+ProcessID=2026 : Parent_ProcessID=1767 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=2033 : Parent_ProcessID=1785 : Average_Running_Time=.22
+Average_Running_Children_of_ParentID=Average_Running_Time=.22 is 
+ProcessID=2050 : Parent_ProcessID=1767 : Average_Running_Time=.12
+Average_Running_Children_of_ParentID=Average_Running_Time=.12 is 
+ProcessID=2051 : Parent_ProcessID=1767 : Average_Running_Time=.45
+Average_Running_Children_of_ParentID=Average_Running_Time=.45 is 
+ProcessID=2070 : Parent_ProcessID=1767 : Average_Running_Time=.38
+Average_Running_Children_of_ParentID=Average_Running_Time=.38 is 
+ProcessID=2071 : Parent_ProcessID=1767 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=2072 : Parent_ProcessID=1767 : Average_Running_Time=1.27
+Average_Running_Children_of_ParentID=Average_Running_Time=1.27 is 
+ProcessID=2074 : Parent_ProcessID=2070 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=2075 : Parent_ProcessID=1767 : Average_Running_Time=.30
+Average_Running_Children_of_ParentID=Average_Running_Time=.30 is 
+ProcessID=2076 : Parent_ProcessID=1767 : Average_Running_Time=3.86
+Average_Running_Children_of_ParentID=Average_Running_Time=3.86 is 
+ProcessID=2077 : Parent_ProcessID=1767 : Average_Running_Time=.42
+ProcessID=2078 : Parent_ProcessID=1767 : Average_Running_Time=.42
+Average_Running_Children_of_ParentID=Average_Running_Time=.42 is 
+ProcessID=2079 : Parent_ProcessID=1767 : Average_Running_Time=.35
+Average_Running_Children_of_ParentID=Average_Running_Time=.35 is 
+ProcessID=2080 : Parent_ProcessID=1767 : Average_Running_Time=.93
+Average_Running_Children_of_ParentID=Average_Running_Time=.93 is 
+ProcessID=2081 : Parent_ProcessID=1767 : Average_Running_Time=.08
+ProcessID=2082 : Parent_ProcessID=1767 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=2083 : Parent_ProcessID=1767 : Average_Running_Time=.15
+Average_Running_Children_of_ParentID=Average_Running_Time=.15 is 
+ProcessID=2084 : Parent_ProcessID=1767 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=2085 : Parent_ProcessID=1767 : Average_Running_Time=.19
+Average_Running_Children_of_ParentID=Average_Running_Time=.19 is 
+ProcessID=2086 : Parent_ProcessID=1767 : Average_Running_Time=.39
+Average_Running_Children_of_ParentID=Average_Running_Time=.39 is 
+ProcessID=21 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=2156 : Parent_ProcessID=1767 : Average_Running_Time=.46
+Average_Running_Children_of_ParentID=Average_Running_Time=.46 is 
+ProcessID=2157 : Parent_ProcessID=1924 : Average_Running_Time=.19
+Average_Running_Children_of_ParentID=Average_Running_Time=.19 is 
+ProcessID=2167 : Parent_ProcessID=2074 : Average_Running_Time=.29
+Average_Running_Children_of_ParentID=Average_Running_Time=.29 is 
+ProcessID=2168 : Parent_ProcessID=2074 : Average_Running_Time=.11
+Average_Running_Children_of_ParentID=Average_Running_Time=.11 is 
+ProcessID=2170 : Parent_ProcessID=1767 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=2178 : Parent_ProcessID=1767 : Average_Running_Time=.72
+Average_Running_Children_of_ParentID=Average_Running_Time=.72 is 
+ProcessID=2192 : Parent_ProcessID=2074 : Average_Running_Time=.09
+Average_Running_Children_of_ParentID=Average_Running_Time=.09 is 
+ProcessID=2195 : Parent_ProcessID=1767 : Average_Running_Time=.37
+Average_Running_Children_of_ParentID=Average_Running_Time=.37 is 
+ProcessID=2198 : Parent_ProcessID=1767 : Average_Running_Time=.33
+Average_Running_Children_of_ParentID=Average_Running_Time=.33 is 
+ProcessID=22 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=220 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=2216 : Parent_ProcessID=1767 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=2221 : Parent_ProcessID=2216 : Average_Running_Time=.43
+Average_Running_Children_of_ParentID=Average_Running_Time=.43 is 
+ProcessID=2224 : Parent_ProcessID=1767 : Average_Running_Time=.55
+Average_Running_Children_of_ParentID=Average_Running_Time=.55 is 
+ProcessID=2228 : Parent_ProcessID=1767 : Average_Running_Time=.73
+Average_Running_Children_of_ParentID=Average_Running_Time=.73 is 
+ProcessID=2267 : Parent_ProcessID=1767 : Average_Running_Time=.42
+Average_Running_Children_of_ParentID=Average_Running_Time=.42 is 
+ProcessID=2292 : Parent_ProcessID=1897 : Average_Running_Time=.55
+Average_Running_Children_of_ParentID=Average_Running_Time=.55 is 
+ProcessID=2301 : Parent_ProcessID=1897 : Average_Running_Time=.60
+Average_Running_Children_of_ParentID=Average_Running_Time=.60 is 
+ProcessID=24 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=2402 : Parent_ProcessID=1767 : Average_Running_Time=.57
+Average_Running_Children_of_ParentID=Average_Running_Time=.57 is 
+ProcessID=2464 : Parent_ProcessID=1 : Average_Running_Time=1.17
+Average_Running_Children_of_ParentID=Average_Running_Time=1.17 is 
+ProcessID=24732 : Parent_ProcessID=2619 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=25 : Parent_ProcessID=2 : Average_Running_Time=.03
+Average_Running_Children_of_ParentID=Average_Running_Time=.03 is 
+ProcessID=253 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=255 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=256 : Parent_ProcessID=2 : Average_Running_Time=.16
+Average_Running_Children_of_ParentID=Average_Running_Time=.16 is 
+ProcessID=26 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=2601 : Parent_ProcessID=1767 : Average_Running_Time=.43
+Average_Running_Children_of_ParentID=Average_Running_Time=.43 is 
+ProcessID=2619 : Parent_ProcessID=2601 : Average_Running_Time=.31
+Average_Running_Children_of_ParentID=Average_Running_Time=.31 is 
+ProcessID=2634 : Parent_ProcessID=1897 : Average_Running_Time=.99
+Average_Running_Children_of_ParentID=Average_Running_Time=.99 is 
+ProcessID=267 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=26894 : Parent_ProcessID=24732 : Average_Running_Time=.43
+Average_Running_Children_of_ParentID=Average_Running_Time=.43 is 
+ProcessID=269 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=27 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=271 : Parent_ProcessID=2 : Average_Running_Time=.05
+ProcessID=277 : Parent_ProcessID=2 : Average_Running_Time=.05
+ProcessID=28 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=3 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=30 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=3034 : Parent_ProcessID=2619 : Average_Running_Time=.79
+Average_Running_Children_of_ParentID=Average_Running_Time=.79 is 
+ProcessID=3035 : Parent_ProcessID=3034 : Average_Running_Time=.76
+Average_Running_Children_of_ParentID=Average_Running_Time=.76 is 
+ProcessID=3039 : Parent_ProcessID=2619 : Average_Running_Time=2.09
+Average_Running_Children_of_ParentID=Average_Running_Time=2.09 is 
+ProcessID=3040 : Parent_ProcessID=3039 : Average_Running_Time=.94
+Average_Running_Children_of_ParentID=Average_Running_Time=.94 is 
+ProcessID=306 : Parent_ProcessID=2 : Average_Running_Time=.03
+Average_Running_Children_of_ParentID=Average_Running_Time=.03 is 
+ProcessID=31 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=319 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=32 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=33 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=34 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=347 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=36 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=37 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=38 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=39 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=396 : Parent_ProcessID=2 : Average_Running_Time=.10
+Average_Running_Children_of_ParentID=Average_Running_Time=.10 is 
+ProcessID=397 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=4 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=40 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=42 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=42376 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=42415 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=43 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=43286 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=43287 : Parent_ProcessID=1 : Average_Running_Time=1.79
+Average_Running_Children_of_ParentID=Average_Running_Time=1.79 is 
+ProcessID=43963 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=44 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=44034 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=44097 : Parent_ProcessID=2 : Average_Running_Time=.10
+ProcessID=44165 : Parent_ProcessID=2 : Average_Running_Time=.10
+Average_Running_Children_of_ParentID=Average_Running_Time=.10 is 
+ProcessID=44732 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=44739 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=44777 : Parent_ProcessID=2 : Average_Running_Time=.12
+Average_Running_Children_of_ParentID=Average_Running_Time=.12 is 
+ProcessID=44783 : Parent_ProcessID=2 : Average_Running_Time=.10
+Average_Running_Children_of_ParentID=Average_Running_Time=.10 is 
+ProcessID=44808 : Parent_ProcessID=1924 : Average_Running_Time=1.25
+Average_Running_Children_of_ParentID=Average_Running_Time=1.25 is 
+ProcessID=44877 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=44925 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=44955 : Parent_ProcessID=2 : Average_Running_Time=.12
+Average_Running_Children_of_ParentID=Average_Running_Time=.12 is 
+ProcessID=44967 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=45 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=46 : Parent_ProcessID=2 : Average_Running_Time=.03
+Average_Running_Children_of_ParentID=Average_Running_Time=.03 is 
+ProcessID=47164 : Parent_ProcessID=2 : Average_Running_Time=.09
+Average_Running_Children_of_ParentID=Average_Running_Time=.09 is 
+ProcessID=474 : Parent_ProcessID=1 : Average_Running_Time=.59
+Average_Running_Children_of_ParentID=Average_Running_Time=.59 is 
+ProcessID=48 : Parent_ProcessID=2 : Average_Running_Time=.01
+ProcessID=49 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=5 : Parent_ProcessID=2 : Average_Running_Time=0
+ProcessID=50 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=505 : Parent_ProcessID=2 : Average_Running_Time=.10
+Average_Running_Children_of_ParentID=Average_Running_Time=.10 is 
+ProcessID=507 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=508 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=509 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=51 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=510 : Parent_ProcessID=1 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=51313 : Parent_ProcessID=2 : Average_Running_Time=.16
+Average_Running_Children_of_ParentID=Average_Running_Time=.16 is 
+ProcessID=51314 : Parent_ProcessID=2 : Average_Running_Time=.15
+Average_Running_Children_of_ParentID=Average_Running_Time=.15 is 
+ProcessID=51315 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=515 : Parent_ProcessID=1 : Average_Running_Time=.72
+Average_Running_Children_of_ParentID=Average_Running_Time=.72 is 
+ProcessID=52 : Parent_ProcessID=2 : Average_Running_Time=.04
+ProcessID=53523 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=53527 : Parent_ProcessID=2619 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=54 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=55 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=56 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=57 : Parent_ProcessID=2 : Average_Running_Time=.08
+Average_Running_Children_of_ParentID=Average_Running_Time=.08 is 
+ProcessID=58 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=6 : Parent_ProcessID=2 : Average_Running_Time=0
+ProcessID=60 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=61 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=612 : Parent_ProcessID=2 : Average_Running_Time=0
+ProcessID=614 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=62 : Parent_ProcessID=2 : Average_Running_Time=.02
+Average_Running_Children_of_ParentID=Average_Running_Time=.02 is 
+ProcessID=621 : Parent_ProcessID=2 : Average_Running_Time=.14
+Average_Running_Children_of_ParentID=Average_Running_Time=.14 is 
+ProcessID=625 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=64 : Parent_ProcessID=2 : Average_Running_Time=.07
+ProcessID=66 : Parent_ProcessID=2 : Average_Running_Time=.07
+Average_Running_Children_of_ParentID=Average_Running_Time=.07 is 
+ProcessID=670 : Parent_ProcessID=2 : Average_Running_Time=.05
+Average_Running_Children_of_ParentID=Average_Running_Time=.05 is 
+ProcessID=671 : Parent_ProcessID=2 : Average_Running_Time=.10
+Average_Running_Children_of_ParentID=Average_Running_Time=.10 is 
+ProcessID=70 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=703 : Parent_ProcessID=1 : Average_Running_Time=.70
+Average_Running_Children_of_ParentID=Average_Running_Time=.70 is 
+ProcessID=709 : Parent_ProcessID=1 : Average_Running_Time=1.54
+Average_Running_Children_of_ParentID=Average_Running_Time=1.54 is 
+ProcessID=71 : Parent_ProcessID=2 : Average_Running_Time=1.34
+Average_Running_Children_of_ParentID=Average_Running_Time=1.34 is 
+ProcessID=72 : Parent_ProcessID=2 : Average_Running_Time=.01
+Average_Running_Children_of_ParentID=Average_Running_Time=.01 is 
+ProcessID=73 : Parent_ProcessID=2 : Average_Running_Time=.04
+Average_Running_Children_of_ParentID=Average_Running_Time=.04 is 
+ProcessID=74 : Parent_ProcessID=2 : Average_Running_Time=.06
+Average_Running_Children_of_ParentID=Average_Running_Time=.06 is 
+ProcessID=75 : Parent_ProcessID=2 : Average_Running_Time=.03
+Average_Running_Children_of_ParentID=Average_Running_Time=.03 is 
+ProcessID=76 : Parent_ProcessID=2 : Average_Running_Time=.11
+Average_Running_Children_of_ParentID=Average_Running_Time=.11 is 
+ProcessID=767 : Parent_ProcessID=1 : Average_Running_Time=1.82
+Average_Running_Children_of_ParentID=Average_Running_Time=1.82 is 
+ProcessID=769 : Parent_ProcessID=1 : Average_Running_Time=1.51
+Average_Running_Children_of_ParentID=Average_Running_Time=1.51 is 
+ProcessID=791 : Parent_ProcessID=1 : Average_Running_Time=.50
+Average_Running_Children_of_ParentID=Average_Running_Time=.50 is 
+ProcessID=792 : Parent_ProcessID=1 : Average_Running_Time=.26
+Average_Running_Children_of_ParentID=Average_Running_Time=.26 is 
+ProcessID=793 : Parent_ProcessID=1 : Average_Running_Time=.89
+Average_Running_Children_of_ParentID=Average_Running_Time=.89 is 
+ProcessID=798 : Parent_ProcessID=1 : Average_Running_Time=1.49
+Average_Running_Children_of_ParentID=Average_Running_Time=1.49 is 
+ProcessID=799 : Parent_ProcessID=1 : Average_Running_Time=.73
+Average_Running_Children_of_ParentID=Average_Running_Time=.73 is 
+ProcessID=8 : Parent_ProcessID=2 : Average_Running_Time=0
+Average_Running_Children_of_ParentID=Average_Running_Time=0 is 
+ProcessID=800 : Parent_ProcessID=1 : Average_Running_Time=.20
+Average_Running_Children_of_ParentID=Average_Running_Time=.20 is 
+ProcessID=801 : Parent_ProcessID=1 : Average_Running_Time=.30
+Average_Running_Children_of_ParentID=Average_Running_Time=.30 is 
+ProcessID=802 : Parent_ProcessID=1 : Average_Running_Time=.53
+Average_Running_Children_of_ParentID=Average_Running_Time=.53 is 
+ProcessID=813 : Parent_ProcessID=1 : Average_Running_Time=.26
+Average_Running_Children_of_ParentID=Average_Running_Time=.26 is 
+ProcessID=816 : Parent_ProcessID=1 : Average_Running_Time=.61
+Average_Running_Children_of_ParentID=Average_Running_Time=.61 is 
+ProcessID=817 : Parent_ProcessID=1 : Average_Running_Time=.31
+Average_Running_Children_of_ParentID=Average_Running_Time=.31 is 
+ProcessID=820 : Parent_ProcessID=1 : Average_Running_Time=.79
+Average_Running_Children_of_ParentID=Average_Running_Time=.79 is 
+ProcessID=821 : Parent_ProcessID=1 : Average_Running_Time=.21
+Average_Running_Children_of_ParentID=Average_Running_Time=.21 is 
+ProcessID=829 : Parent_ProcessID=791 : Average_Running_Time=.13
+Average_Running_Children_of_ParentID=Average_Running_Time=.13 is 
+ProcessID=841 : Parent_ProcessID=1 : Average_Running_Time=.28
+Average_Running_Children_of_ParentID=Average_Running_Time=.28 is 
+ProcessID=850 : Parent_ProcessID=1 : Average_Running_Time=.91
+Average_Running_Children_of_ParentID=Average_Running_Time=.91 is 
+ProcessID=882 : Parent_ProcessID=1 : Average_Running_Time=.76
+Average_Running_Children_of_ParentID=Average_Running_Time=.76 is 
+ProcessID=905 : Parent_ProcessID=1 : Average_Running_Time=.18
+Average_Running_Children_of_ParentID=Average_Running_Time=.18 is 
+ProcessID=908 : Parent_ProcessID=1 : Average_Running_Time=.65
+Average_Running_Children_of_ParentID=Average_Running_Time=.65 is 
+ProcessID=918 : Parent_ProcessID=1 : Average_Running_Time=.32
+Average_Running_Children_of_ParentID=Average_Running_Time=.32 is 
+ProcessID=925 : Parent_ProcessID=1 : Average_Running_Time=.20
+Average_Running_Children_of_ParentID=Average_Running_Time=.20 is 
+ProcessID=928 : Parent_ProcessID=1 : Average_Running_Time=.33
+Average_Running_Children_of_ParentID=Average_Running_Time=.33 is 
+ProcessID=931 : Parent_ProcessID=1 : Average_Running_Time=2.19
+Average_Running_Children_of_ParentID=Average_Running_Time=2.19 is 
+ProcessID=934 : Parent_ProcessID=1 : Average_Running_Time=.31
+Average_Running_Children_of_ParentID=Average_Running_Time=.31 is 
